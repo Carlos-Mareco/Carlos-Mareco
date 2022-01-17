@@ -6,7 +6,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC353le0uU-SUQ6sCpcLPVFw)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/carl_mareco)
 
-<br><br>Olá, mundo!👋<br>Perfil de um programador na fase alpha 😄<br>
+<br><br>Olá, mundo!👋<br>Perfil de um programador na fase beta 😄<br>
 
 ##
 
