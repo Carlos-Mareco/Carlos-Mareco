@@ -1,4 +1,4 @@
-<img align="left" src="https://cdn.ome.lt/xrNgchrpPa0mDFgJ7T4nQbIDrT0=/fit-in/837x500/smart/uploads/conteudo/fotos/Lista10.gif" width="250"/>
+<img align="left" src="https://cdn.ome.lt/xrNgchrpPa0mDFgJ7T4nQbIDrT0=/fit-in/837x500/smart/uploads/conteudo/fotos/Lista10.gif" width="250" margin="10"/>
 
 ## Carlos Henrique Barreto Mareco
 
