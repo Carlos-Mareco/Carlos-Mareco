@@ -1,5 +1,3 @@
-<img align="left" src="https://cdn.ome.lt/xrNgchrpPa0mDFgJ7T4nQbIDrT0=/fit-in/837x500/smart/uploads/conteudo/fotos/Lista10.gif" width="250" margin="10"/>
-
 ## Carlos Henrique Barreto Mareco
 
 <!--[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carl_mareco/)-->
