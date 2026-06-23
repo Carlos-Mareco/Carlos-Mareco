@@ -7,8 +7,6 @@
 <a href="https://www.youtube.com/channel/UC353le0uU-SUQ6sCpcLPVFw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href = "mailto:carlosmareco2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<br><br>Olá, mundo!👋<br>Perfil de um programador na fase beta 😄<br>
-
 ##
 
 <div align="center">
